@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Eugenio",
+        "class": "0",
+        "stats":
+        [
+            10,
+            5,
+            6,
+            4
+        ]
+    },
+
+    {
+        "name": "",
+        "class": "1",
+        "stats":
+        [
+            9,
+            5,
+            7,
+            4
+        ]
+    },
+
+    {
+        "name": "Xx_PlaYeR_xX",
+        "class": "1",
+        "stats":
+        [
+            8,
+            6,
+            6,
+            5
+        ]
+    },
+
+    {
+        "name": "Butterfly",
+        "class": "2",
+        "stats":
+        [
+            12,
+            1,
+            1,
+            11
+        ]
+    },
+
+    {
+        "name": "Cheater",
+        "class": "1",
+        "stats":
+        [
+            60,
+            60,
+            60,
+            60
+        ]
+    },
+
+    {
+        "name": "Ash",
+        "class": "0",
+        "stats":
+        [
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+
+    {
+        "name": "NoClass",
+        "class": "4",
+        "stats":
+        [
+            10,
+            5,
+            6,
+            4
+        ]
+    },
+
+    {
+        "name": "Masquerade",
+        "class": "1",
+        "stats":
+        [
+            1,
+            1,
+            22,
+            1
+        ]
+    },
+
+    {
+        "name": "NoIntelligence?",
+        "class": "0",
+        "stats":
+        [
+            10,
+            5,
+            10
+        ]
+    }
+]
